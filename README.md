@@ -9,7 +9,7 @@ UPSTREAM=https://dns.google/dns-query
 // or
 UPSTREAM=https://dns.nextdns.io/example
 ```
-### Build and upload
+### Build & upload
 ```
 make build
 ```
